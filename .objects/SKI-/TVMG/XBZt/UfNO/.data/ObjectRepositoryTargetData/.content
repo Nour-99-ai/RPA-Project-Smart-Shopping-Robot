@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7-S4iD4uu0e01rQSKBMmYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net" DesignTimeRectangle="297, 238, 912, 55" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='search-bar__input' placeholder='Search...' aaname='' /&gt;" Guid="dc40aa00-d1ee-4cb1-a8cd-e36358d43b2e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='JorMall&amp;apos;s online store' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b88bb87cc46522b0a152e007c19b5369.png" xmlns="">0Lhmm4-kwCEuGkAkSGHi1sQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

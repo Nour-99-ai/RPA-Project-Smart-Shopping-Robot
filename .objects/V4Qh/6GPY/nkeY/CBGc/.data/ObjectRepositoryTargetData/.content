@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_8PO3kVYqUKsdwQWBzUthw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="b5e7e8b0-f5fb-45f5-9aea-c12e61b2a613" DesignTimeRectangle="1260, 356, 45, 45" DesignTimeScaleFactor="1.25" ElementType="Icon" FullSelectorArgument="&lt;webctrl aria-role='img' idx='5' parentid='motta-toolbar-view' tag='svg' /&gt;" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;webctrl aria-role='img' type='' parentid='motta-toolbar-view' tag='svg' class='' aaname='' /&gt;" Guid="2ab722c0-09e4-4b52-b24a-9316ca7bbb29" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for iphone16 pro max - ليدرز سنتر' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f8b5b74a3b8657b5c7e77e6823ff28bc.png" xmlns="">0phplzqqjhkWUO55UbGlhKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

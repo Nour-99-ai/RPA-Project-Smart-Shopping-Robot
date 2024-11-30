@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eexL_UNAk0KDVUlV4uC4NQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="963cb903-049d-4f43-9c11-03fe0b398c4b" DesignTimeRectangle="835, 363, 210, 32" DesignTimeScaleFactor="1.25" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' /&gt;" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='orderby' aaname='' /&gt;" Guid="e88b9634-d61d-48e3-9c2d-b204f670ed05" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for samsung tv - ليدرز سنتر' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0016f1f6d9456de7658bbc2cd7ef6195.png" xmlns="">0sYAAr7ZF4ECsFyw3Ep-wNg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

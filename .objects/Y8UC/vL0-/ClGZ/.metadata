@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge BMS Mena",
+  "Type": "Screen",
+  "Id": "ClGZ9cwsbUWkm6evbjaTFA",
+  "Reference": "2EydjaSwu0OfqWGZBq5ksQ/ClGZ9cwsbUWkm6evbjaTFA",
+  "ParentRef": "2EydjaSwu0OfqWGZBq5ksQ/vL0-IHZLN0CSTx8jONL83g",
+  "Created": "2024-11-09T12:34:07.0416399Z",
+  "Updated": "2024-11-09T12:34:07.0416399Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

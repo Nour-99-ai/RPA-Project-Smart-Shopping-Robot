@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5_2M9fh6mkirDPRQo-s5qg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com" CVScreenId="3fbe79d4-f364-4fd8-9468-35bc95c90fbf" CvTextArea="1001, 282, 71, 16" CvTextArgument="Search..." CvType="Text" DesignTimeRectangle="979, 265, 186, 53" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzyAccuracy="0.92" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='search_header__input js_iput_search' placeholder='Search...' aaname='' /&gt;" Guid="4e169450-7489-41a8-b42e-d11879aa6e88" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="089198fadd836c4bc43b06f17f5babeb.png" xmlns="">00tD-UqZI1km_lHXecJzbtA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

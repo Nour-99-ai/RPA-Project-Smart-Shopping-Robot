@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge JorMall's online store",
+  "Type": "App",
+  "Id": "SKI-Dc7nOEi2gnqHGqZ2rw",
+  "Reference": "2EydjaSwu0OfqWGZBq5ksQ/SKI-Dc7nOEi2gnqHGqZ2rw",
+  "Created": "2024-11-09T10:37:10.0161512Z",
+  "Updated": "2024-11-09T10:37:10.0161512Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

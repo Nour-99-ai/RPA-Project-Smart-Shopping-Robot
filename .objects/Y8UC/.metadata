@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge BMS Mena",
+  "Type": "App",
+  "Id": "Y8UCpq6iAkCd8xUcoYAKeA",
+  "Reference": "2EydjaSwu0OfqWGZBq5ksQ/Y8UCpq6iAkCd8xUcoYAKeA",
+  "Created": "2024-11-09T12:34:07.0093836Z",
+  "Updated": "2024-11-09T12:34:07.0093836Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
